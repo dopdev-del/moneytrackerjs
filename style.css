@@ -1,0 +1,46 @@
+bodY{
+    text-align: center;
+    margin-top: 50px;
+    /*background-image: url(https://img4.goodfon.com/wallpaper/nbig/2/e4/hammer-dark-money-dollars.jpg);*/
+    /*background-repeat: repeat-y;*/
+    background-color:black;
+    /*background: linear-gradient(to right, orange 0%, orange 50%, black 50%, gray 100%);*/
+}
+input{
+    text-align:center;
+    size: 10px;
+}
+h1,h3{
+    color: white;
+}
+
+input{
+    padding: 0.5rem 1rem;
+    outline: none;
+    border: none;
+    height: 50px;
+    border-radius: 25px;
+    width: 200px;
+    margin: 0.25rem;
+    transition: .5s;
+    font-size: 1.15rem;
+}
+
+.h11{
+    color: whitesmoke;
+    text-align: center;
+    font-family: -apple-system;
+    font-family: '-apple-system','HelveticaNeue';
+    text-transform: capitalize;
+
+    
+}
+
+
+
+
+
+
+
+
+
